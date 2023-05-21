@@ -9,5 +9,7 @@
 </p>
 
 <p align="center">
+  <samp>
   Systems Analyst & Security Researcher, but I prefer to just call myself a nerd.
+  </samp>
 </p>

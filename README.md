@@ -7,3 +7,7 @@
   <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge" />
   </a>
 </p>
+
+<p align="center">
+  Systems Analyst & Security Researcher, but I prefer to just call myself a nerd.
+</p>

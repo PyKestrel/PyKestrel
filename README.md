@@ -1,15 +1,6 @@
 <p align="center">
-  <a href="https://twitter.com/ImPyKestrel">
-  <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge" />
-  </a>
-  
-  <a href="https://pykestrel.medium.com/">
-  <img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge" />
+  <a>
+    <img src="https://github.com/PyKestrel/PyKestrel/assets/42158489/79be3b6d-93b6-4176-a11b-b4099786a869" />
   </a>
 </p>
-
-<p align="center">
-  <samp>
-  Systems Analyst & Security Researcher, but I prefer to just call myself a nerd.
-  </samp>
 </p>
